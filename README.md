@@ -1,17 +1,15 @@
-## Welcome to GitHub Pages
+## Tom Watts
 
-You can use the [editor on GitHub](https://github.com/tomwatts-me/tomwatts-me.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A robot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### CV
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Projects
 ## Header 2
 ### Header 3
 
